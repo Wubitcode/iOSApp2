@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Espresso",
+    "coffeeDescription": "A concentrated, full-bodied shot brewed under high pressure.",
+    "price": 3.59,
+    "image": "coffee",
+    "category": "Hot"
+  },
+  {
+    "id": "2",
+    "name": "Latte",
+    "coffeeDescription": "A comforting blend of rich espresso and steamed milk, topped with a delicate layer of microfoam.",
+    "price": 3.99,
+    "image": "coffee2",
+    "category": "Hot"
+  },
+  {
+    "id": "3",
+    "name": "Ice Coffee",
+    "coffeeDescription": "Premium chilled coffee poured over ice and perfectly balanced with sweet cream.",
+    "price": 2.99,
+    "image": "coffee3",
+    "category": "Cold"
+  }
+]
